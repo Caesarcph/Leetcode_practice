@@ -5,5 +5,5 @@ My everyday practice as a first year CS student
 [242](/leetcode2.ipynb)
 ## Array
 ### Easy
-[1](/leetcode1920.ipynb)
+[1920](/leetcode1920.ipynb)
 
