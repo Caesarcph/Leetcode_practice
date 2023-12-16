@@ -2,5 +2,5 @@
 My everyday practice as a first year CS student 
 ## Math
 ### Easy
-[242](/leetcode2_ipynb)
+[242](/leetcode2.ipynbipynb)
 
