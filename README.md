@@ -1,10 +1,10 @@
 # Leetcode_practice
 My everyday practice as a first year CS student 
-|      | Math  |
-|------|-------|------|
-| Easy | Medium| Hard |
-| [242](/leetcode2.ipynb)  |       |      |
-|      |       |      |
+|      | Easy | Medium | Hard |
+|------|------|--------|------|
+| Math | [1920](/leetcode1920.ipynb)  | 3      | 6    |
+|      | 2    | 5      | 7    |
+
 
 ## Array
 ### Easy
