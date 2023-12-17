@@ -6,4 +6,5 @@ My everyday practice as a first year CS student
 ## Array
 ### Easy
 [1920](/leetcode1920.ipynb)
+[1929](/leetcode1929.ipynb)
 
