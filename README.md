@@ -3,7 +3,7 @@ My everyday practice as a first year CS student
 |      | Math   |      |
 |------|--------|------|
 | Easy | Medium | Hard |
-|------|--------|------|
+|      |        |      |
 | [2](/leetcode2.ipynb)  |        |      |
 
 
