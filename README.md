@@ -11,5 +11,6 @@ My everyday practice as a first year CS student
 |------|--------|------|
 | [1920](/leetcode1920.ipynb)  |        |      |
 | [1929](/leetcode1929.ipynb)  |        |      |
+| [1512](/leetcode1512.ipynb)  |        |      |
 
 
