@@ -4,14 +4,20 @@ My everyday practice as a first year CS student
 ## Math
 | Easy | Medium | Hard |
 |------|--------|------|
-| [2](/leetcode2.ipynb)  |        |      |
+| [2](/lc2.py)  |        |      |
 
 ## Array
 | Easy | Medium | Hard |
 |------|--------|------|
-| [1920](/leetcode1920.ipynb)  | [11](/leetcode11.ipynb)  |      |
-| [1929](/leetcode1929.ipynb)  |        |      |
-| [1512](/leetcode1512.ipynb)  |        |      |
-| [2011](/leetcode2011.ipynb)  |        |      |
+| [1920](/lc1920.py)  | [11](/lc11.py)  |      |
+| [1929](/lc1929.py)  |        |      |
+| [1512](/lc1512.py)  |        |      |
+| [2011](/lc2011.py)  |        |      |
+
+## String
+| Easy | Medium | Hard |
+|------|--------|------|
+| [20](/lc20.py)  |        |      |
+| [14](/lc14.py)  |        |      |
 
 
