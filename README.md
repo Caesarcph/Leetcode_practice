@@ -1,23 +1,27 @@
 # Leetcode_practice
-My everyday practice 
+My everyday practice on leetcode questions with explanations and analysis.
 
 ## Math
 | Easy | Medium | Hard |
 |------|--------|------|
-| [2](/lc2.py)  |        |      |
+| [2](/lc2.ipynb)  |        |      |
 
 ## Array
 | Easy | Medium | Hard |
 |------|--------|------|
-| [1920](/lc1920.py)  | [11](/lc11.py)  |      |
-| [1929](/lc1929.py)  |        |      |
-| [1512](/lc1512.py)  |        |      |
-| [2011](/lc2011.py)  |        |      |
+| [1920](/lc1920.ipynb)  | [11](/lc11.ipynb)  |      |
+| [1929](/lc1929.ipynb)  |        |      |
+| [1512](/lc1512.ipynb)  |        |      |
+| [2011](/lc2011.ipynb)  |        |      |
 
 ## String
 | Easy | Medium | Hard |
 |------|--------|------|
-| [20](/lc20.py)  |        |      |
-| [14](/lc14.py)  |        |      |
+| [20](/lc20.ipynb)  |        |      |
+| [14](/lc14.ipynb)  |        |      |
 
+## Linked List
+| Easy | Medium | Hard |
+|------|--------|------|
+| [2](/lc2.ipynb)  |        |      |
 
