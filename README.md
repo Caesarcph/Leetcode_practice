@@ -20,6 +20,7 @@ My everyday practice on leetcode questions with explanations and analysis.
 |------|--------|------|
 | [20](/lc20.ipynb)  |        |      |
 | [14](/lc14.ipynb)  |        |      |
+| [28](/lc28.ipynb)  |        |      |
 
 ## Linked List
 | Easy | Medium | Hard |
