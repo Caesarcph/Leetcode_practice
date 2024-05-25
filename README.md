@@ -13,6 +13,7 @@ My everyday practice on leetcode questions with explanations and analysis.
 | [1929](/lc1929.ipynb)  |        |      |
 | [1512](/lc1512.ipynb)  |        |      |
 | [2011](/lc2011.ipynb)  |        |      |
+| [27](/lc27.ipynb)  |        |      |
 
 ## String
 | Easy | Medium | Hard |
