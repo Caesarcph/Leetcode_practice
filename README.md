@@ -14,6 +14,9 @@ My everyday practice on leetcode questions with explanations and analysis.
 | [1512](/lc1512.ipynb)  |        |      |
 | [2011](/lc2011.ipynb)  |        |      |
 | [27](/lc27.ipynb)  |        |      |
+| [26](/lc26.ipynb)  |        |      |
+| [35](/lc35.ipynb)  |        |      |
+
 
 ## String
 | Easy | Medium | Hard |
@@ -21,6 +24,7 @@ My everyday practice on leetcode questions with explanations and analysis.
 | [20](/lc20.ipynb)  |        |      |
 | [14](/lc14.ipynb)  |        |      |
 | [28](/lc28.ipynb)  |        |      |
+| [58](/lc58.ipynb)  |        |      |
 
 ## Linked List
 | Easy | Medium | Hard |
