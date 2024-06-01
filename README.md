@@ -16,6 +16,7 @@ My everyday practice on leetcode questions with explanations and analysis.
 | [27](/lc27.ipynb)  |        |      |
 | [26](/lc26.ipynb)  |        |      |
 | [35](/lc35.ipynb)  |        |      |
+| [66](/lc66.ipynb)  |        |      |
 
 
 ## String
