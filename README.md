@@ -28,3 +28,9 @@ My everyday practice on leetcode questions with explanations and analysis.
 |------|--------|------|
 | [2](/lc2.ipynb)  |        |      |
 
+## Math
+| Easy | Medium | Hard |
+|------|--------|------|
+| [69](/lc69.ipynb)  |        |      |
+
+
