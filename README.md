@@ -1,11 +1,6 @@
 # Leetcode_practice
 My everyday practice on leetcode questions with explanations and analysis.
 
-## Math
-| Easy | Medium | Hard |
-|------|--------|------|
-| [2](/lc2.ipynb)  |        |      |
-
 ## Array
 | Easy | Medium | Hard |
 |------|--------|------|
@@ -26,6 +21,7 @@ My everyday practice on leetcode questions with explanations and analysis.
 | [14](/lc14.ipynb)  |        |      |
 | [28](/lc28.ipynb)  |        |      |
 | [58](/lc58.ipynb)  |        |      |
+| [67](/lc67.ipynb)  |        |      |
 
 ## Linked List
 | Easy | Medium | Hard |
