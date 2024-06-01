@@ -33,4 +33,9 @@ My everyday practice on leetcode questions with explanations and analysis.
 |------|--------|------|
 | [69](/lc69.ipynb)  |        |      |
 
+## Dynamic Programming
+| Easy | Medium | Hard |
+|------|--------|------|
+| [70](/lc70.ipynb)  |        |      |
+
 
