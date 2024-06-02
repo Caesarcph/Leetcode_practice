@@ -12,6 +12,7 @@ My everyday practice on leetcode questions with explanations and analysis.
 | [26](/lc26.ipynb)  |        |      |
 | [35](/lc35.ipynb)  |        |      |
 | [66](/lc66.ipynb)  |        |      |
+| [88](/lc88.ipynb)  |        |      |
 
 
 ## String
@@ -27,6 +28,7 @@ My everyday practice on leetcode questions with explanations and analysis.
 | Easy | Medium | Hard |
 |------|--------|------|
 | [2](/lc2.ipynb)  |        |      |
+| [83](/lc83.ipynb)  |        |      |
 
 ## Math
 | Easy | Medium | Hard |
